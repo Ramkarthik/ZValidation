@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZValidation", "src\ZValidation\ZValidation.csproj", "{18160909-B332-411E-BC86-A64E85E26731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZValidation.Tests", "src\ZValidation.Tests\ZValidation.Tests.csproj", "{2AD909FD-9FDC-4886-9422-F11494BBC844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18160909-B332-411E-BC86-A64E85E26731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18160909-B332-411E-BC86-A64E85E26731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18160909-B332-411E-BC86-A64E85E26731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18160909-B332-411E-BC86-A64E85E26731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD909FD-9FDC-4886-9422-F11494BBC844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD909FD-9FDC-4886-9422-F11494BBC844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD909FD-9FDC-4886-9422-F11494BBC844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD909FD-9FDC-4886-9422-F11494BBC844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5FF9EC7-2D97-4771-B587-62C137181622}
+	EndGlobalSection
+EndGlobal
