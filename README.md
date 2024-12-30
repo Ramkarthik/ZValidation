@@ -2,6 +2,8 @@
 
 Simple, fast, and extensible validation library for .NET.
 
+Note: This is still in very early stages and is not ready for production use.
+
 ### Example
 
 ```csharp
